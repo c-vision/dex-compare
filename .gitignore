@@ -9,3 +9,5 @@ examples/*
 examples
 mainnet-fork-infura.txt
 git.txt
+truffle-config.js
+.gitignore
